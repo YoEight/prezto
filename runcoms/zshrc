@@ -11,3 +11,7 @@ if [[ -s "${ZDOTDIR:-$HOME}/.zprezto/init.zsh" ]]; then
 fi
 
 # Customize to your needs...
+
+export GIT_EDITOR=hx
+export EDITOR=hx
+export VISUAL=hx
