@@ -12,6 +12,6 @@ fi
 
 # Customize to your needs...
 
-export GIT_EDITOR=hx
-export EDITOR=hx
-export VISUAL=hx
+export GIT_EDITOR=nvim
+export EDITOR=nvim
+export VISUAL=nvim
